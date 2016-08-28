@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+bower_components
+
+/starterkit/assets/css
+/starterkit/assets/js
+/starterkit/assets/images
+/starterkit/kirby
+/starterkit/panel
+/starterkit/site/accounts
+/starterkit/thumbs/*
