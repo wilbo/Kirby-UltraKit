@@ -16,10 +16,10 @@ var webpackSettings = {
   debug: environments.development(),
   module: {
     loaders: [{
-      test: /\.jsx?/,
+      test: /\.js?/,
       exclude: /(node_modules|bower_components)/,
       include: ['./source/js/'],
-      loaders: ['react-hot', 'babel?presets[]=react,presets[]=es2015', 'webpack-module-hot-accept'],
+      loader: 'babel?presets[]=es2015'
     }]
   },
   output: {
