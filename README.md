@@ -8,7 +8,7 @@ Make sure to setup a vhost with Mamp (or something alike) that will be serving t
 
 In your terminal type:
   
-    $ git clone https://github.com/wilbo/Kirby-UltraKit.git
+    $ git clone --recursive https://github.com/wilbo/Kirby-UltraKit.git
     $ cd Kirby-UltraKit && npm install
 
 Include the javascript by adding the following line of code inside ./public/site/snippets/footer.php:
