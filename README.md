@@ -4,7 +4,7 @@ Kirby UltraKit is a workflow on top of the Kirby StarterKit. It uses Gulp and We
 
 ### getting started:
 
-Make sure to setup a vhost with Mamp (or something alike) that will be serving the public folder of this/your project root. More info on how to do this read: <http://add-a-link.com>
+Make sure to setup a vhost with Mamp (or something alike) that will be serving the public folder of this/your project root. More info on how to do this read: [Adding a virtual host in Mamp](https://medium.com/@wilbo/adding-a-virtual-host-in-mamp-for-mac-a6c717cc0475#.hz6nhm20v).
 
 In your terminal type:
   
