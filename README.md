@@ -1,6 +1,6 @@
 # Kirby UltraKit
 
-Kirby UltraKit is a workflow on top of the Kirby StarterKit. It uses Gulp and Webpack to build the assets which are served on a local server by BrowserSync. Minified assets are build for production.
+Kirby UltraKit is a workflow on top of the [Kirby StarterKit](https://github.com/getkirby/starterkit/tree/e9d1b84ebf8bba54693e61551dae9f3711e41aa9). It uses Gulp and Webpack to build the assets which are served on a local server by BrowserSync. Minified assets are build for production.
 
 ### getting started:
 
