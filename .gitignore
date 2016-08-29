@@ -9,3 +9,6 @@ bower_components
 /starterkit/panel
 /starterkit/site/accounts
 /starterkit/thumbs/*
+
+# remove this line to track your site in git
+/public
