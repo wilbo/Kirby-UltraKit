@@ -27,4 +27,4 @@ Include the javascript by adding the following line of code inside ./public/site
 
     <?php echo js('assets/js/main.js') ?>
 
-Lastly, edit your .gitignore by removing "/public" on line 14 to track your site in git.
+Lastly, edit the .gitignore by removing "/public" on line 14 to track your site in git.
