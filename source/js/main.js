@@ -8,5 +8,5 @@
 // uncomment following line:
 // window._ = require("underscore");
 
-var helloWorld = require('./components/helloWorld');
+const helloWorld = require('./components/helloWorld');
 console.log(helloWorld);

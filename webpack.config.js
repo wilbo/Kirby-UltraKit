@@ -18,7 +18,6 @@ var webpackSettings = {
     loaders: [{
       test: /\.js?/,
       exclude: /(node_modules|bower_components)/,
-      include: ['./source/js/'],
       loader: 'babel?presets[]=es2015'
     }]
   },
