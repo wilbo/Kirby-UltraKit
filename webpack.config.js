@@ -15,6 +15,11 @@ var webpackSettings = {
   },
   debug: environments.development(),
   module: {
+    preLoaders: [{
+      test: /\.js$/,
+      exclude: /(node_modules|bower_components)/,
+      loader: 'jshint-loader'
+    }],
     loaders: [{
       test: /\.js?/,
       exclude: /(node_modules|bower_components)/,
