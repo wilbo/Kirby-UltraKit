@@ -2,11 +2,11 @@
 
 Kirby UltraKit is a workflow on top of the [Kirby StarterKit](https://github.com/getkirby/starterkit/tree/e9d1b84ebf8bba54693e61551dae9f3711e41aa9). Kirby-UltraKit is as much "opinionated-free" as possible. You're able to manage your own js and css libraries in whatever way you see fit.
 
-#### What's in it?
+### What's in it?
 
 Gulp, Webpack, Babel, jsHint, BrowserSync, Sass, Autoprefixer and Sourcemaps. That's about it. Write ES6 in modules, all changes are live reloaded.
 
-#### Getting started:
+### Getting started:
 
 Make sure to setup a vhost with Mamp (or something alike) that will be serving the **public** folder of this project root. More info on how to do this read: [Adding a virtual host in Mamp](https://medium.com/@wilbo/adding-a-virtual-host-in-mamp-for-mac-a6c717cc0475#.hz6nhm20v). It basically comes down to editing these two files (with Atom):
 
